@@ -1,0 +1,13 @@
+@import '../../assets/styles/main.scss';
+
+.footer > p {
+  background-color: $white;
+  bottom: 0;
+  color: $dark-grey;
+  left: 0;
+  margin: 0;
+  padding: 10px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
